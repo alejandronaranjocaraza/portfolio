@@ -1,2 +1,2 @@
-# odin-portfolio
+# portfolio
 First project in Odin introductory course.
